@@ -1,0 +1,30 @@
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\email-attachments-aspnet-core-master\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of Chapter\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\pro\pro\pro-asp.net-core-6-main\11 - SportsStore - 5\Beginning of ChapterOld\SportsSln\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
