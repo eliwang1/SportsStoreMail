@@ -37,7 +37,7 @@ namespace SportsStore.Controllers {
                                       line.Product.Name,
                                       subtotal);
                 }
-                var message = new Message(new string[] { "eliwang1@juno.com" }, "New order submitted!", body.ToString(), null);
+                var message = new Message(new string[] { "xxxxxxx@xxxxx.com" }, "New order submitted!", body.ToString(), null);
                 _emailSender.SendEmail(message);
                 cart.Clear();
                 return RedirectToPage("/Completed", new { orderId = order.OrderID });
